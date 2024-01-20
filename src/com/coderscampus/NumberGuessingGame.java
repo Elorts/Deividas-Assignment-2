@@ -7,7 +7,6 @@ public class NumberGuessingGame {
 
 	public static void main(String[] args) {
 
-		//Boolean FINISHED = false;
 		int chances = 5;
 
 		Scanner scanner = new Scanner(System.in);
