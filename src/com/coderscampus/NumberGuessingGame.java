@@ -14,8 +14,6 @@ public class NumberGuessingGame {
 		int theRandomNumber = random.nextInt(100) + 1;
 		System.out.println("Pick a number between 1 and 100: ");
 
-
-
 		while (chances > 0) {
 			System.out.println("Pick a number between 1 and 100: ");
 			int userInput = Integer.parseInt(scanner.next());
@@ -43,9 +41,6 @@ public class NumberGuessingGame {
 		}
 
 		scanner.close();	
-
 	}
-
-		
 }
 
