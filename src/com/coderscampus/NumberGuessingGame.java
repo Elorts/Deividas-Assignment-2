@@ -36,10 +36,8 @@ public class NumberGuessingGame {
 				} else {
 					System.out.println("Please pick a lower number:");
 				}
-
 			}
 		}
-
 		scanner.close();	
 	}
 }
