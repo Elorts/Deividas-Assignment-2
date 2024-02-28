@@ -22,7 +22,6 @@ public class NumberGuessingGame {
 				System.out.println("Your guess is not between 1 and 100, please try again.");
 				continue;
 			}
-
 			chances--;
 
 			if (userInput == theRandomNumber) {
