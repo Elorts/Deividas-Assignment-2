@@ -24,6 +24,7 @@ public class NumberGuessingGame {
 			}
 
 			chances--;
+
 			if (userInput == theRandomNumber) {
 				System.out.println("You win!");
 				break;
