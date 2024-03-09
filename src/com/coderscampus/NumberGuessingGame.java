@@ -38,7 +38,6 @@ public class NumberGuessingGame {
 				}
 			}
 		}
-		
 		scanner.close();	
 	}
 }
